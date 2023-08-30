@@ -1,5 +1,5 @@
+*.* linguist-detectable=false
 *.cpp linguist-detectable=true
 *.h linguist-detectable=true
 *.dfm linguist-detectable=true
 *.c linguist-detectable=true
-*.* linguist-detectable=false

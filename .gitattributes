@@ -1,2 +1,4 @@
 *.cpp linguist-language=C++
+*.h linguist-language=C++
 *.dfm linguist-language=Delphi
+*.pas linguist-detectable=false
